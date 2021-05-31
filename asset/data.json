@@ -1,0 +1,175 @@
+{
+    "buses": ["48AD", "74b", "54bd", "5c"],
+   "48AD" :  [
+       {
+           "stopname" : "aarapalayam",
+           "time" : "9:00"
+       },
+       {
+        "stopname" : "kalavasal",
+        "time" : "9:10"
+    },
+
+    {
+        "stopname": "palanzhanathathem",
+         "time" :"9:20"
+    },
+    {
+        "stopname" :"bykra",
+        "time" :"9:30"   
+    },
+    {
+        "stopname" :"pasmalai",
+        "time" :"9:35"
+    },
+    {
+        "stopname" :"thirupparankundram",
+        "time" :"9:39"
+     },
+     {
+         "stopname":"harvipatti",
+         "time" :"9:43"
+     },
+     {
+         "stopname" :"thirunagar",
+         "time":"9:45"
+
+     },
+     {
+         "stopname":"thoppur",
+         "time":"9:49"
+     },
+     {
+         "stopname":"kappalur",
+         "time":"9:58"
+
+     },
+     {
+         "stopname":"thirumangalam",
+         "time" :"10:25"
+
+     }
+
+    ],
+    "74b" : [
+        {
+            "stopname":"thirumangalam",
+            "time" :"11:00"
+        },
+        {
+            "stopname":"kappalur",
+            "time" :"11:20"
+
+        },
+        {
+            "stopname" :"thopur",
+            "time":"11:32"
+        },
+        {
+           "stopname" :"thirunagar",
+           "time" :"11:38"
+        },
+        {
+            "stopname" :"harvipatti",
+            "time" :"11:43"
+        },
+        {
+            "stopname" :"thirupparankundram",
+            "time" :"11:47"
+
+        },
+        {
+            "stopname" :"pasumalai",
+            "time" :"11:55"
+        },
+        {
+            "stopname" :"bykara",
+            "time" :"12:00"
+
+        },
+        {
+            "stopname" :"palanhanathem",
+            "time" :"12:10"
+        },
+        {
+            "stopname" :"vasanthanagar",
+            "time" :"12:15"
+        },
+        {
+            "stopname" :"andalapuram",
+            "time" :"12:20"
+        },
+        {
+            "stopname" :"periyar",
+            "time" :"12:34"
+        }
+    ],
+    "54bd" : [
+        {
+            "stopname":"periyar",
+            "time" :"3:00"
+        },
+        {
+            "stopname":"kalavasal",
+            "time" :"3:12"
+
+        },
+        {
+            "stopname" :"t.v.snagar",
+            "time":"3:25"
+        },
+        {
+           "stopname" :"acchampatthu",
+           "time" :"3:35"
+        },
+        {
+            "stopname" :"pillarachalai",
+            "time" :"3:45"
+        },
+        {
+            "stopname" :"puliangulam",
+            "time" :"3:54"
+
+        },
+        {
+            "stopname" :"chakkanurani",
+            "time" :":4:05"
+        }
+    ],
+    "5c" : [
+        {
+            "stopname":"periyar",
+            "time" :"11:00"
+        },
+        {
+            "stopname":"simkkal",
+            "time" :"11:20"
+
+        },
+        {
+            "stopname" :"gooripalayam",
+            "time":"11:32"
+        },
+        {
+           "stopname" :"tallakulam",
+           "time" :"11:38"
+        },
+        {
+            "stopname" :"outpost",
+            "time" :"11:43"
+        },
+        {
+            "stopname" :"sethupathistop",
+            "time" :"11:47"
+
+        },
+        {
+            "stopname" :"b.g.rbusstop",
+            "time" :"11:55"
+        }
+        
+    ]
+
+}
+
+
